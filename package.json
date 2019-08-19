@@ -1,0 +1,21 @@
+{
+  "name": "node-websockets",
+  "version": "1.0.0",
+  "description": "Exemplo de Chat usando WebSockets",
+  "scripts": {
+    "start": "nodemon --exec babel-node src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
+  }
+}
