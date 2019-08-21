@@ -1,7 +1,7 @@
 {
   "name": "node-websockets",
   "version": "1.0.0",
-  "description": "Exemplo de Chat usando WebSockets",
+  "description": "Exemplo de Chat em Node.js usando WebSockets",
   "scripts": {
     "start": "nodemon --exec babel-node src"
   },
